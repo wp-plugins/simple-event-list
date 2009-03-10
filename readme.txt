@@ -1,6 +1,6 @@
 === Plugin Name ===
 Contributors: mark8barnes
-Donate link: http://www.4-14.org.uk/sermon-browser#support
+Donate link: http://www.4-14.org.uk/wordpress-plugins/donate
 Tags: events, calendar, list
 Requires at least: 2.5
 Tested up to: 2.7.1
