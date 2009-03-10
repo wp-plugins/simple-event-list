@@ -3,7 +3,7 @@ Contributors: mark8barnes
 Donate link: http://www.4-14.org.uk/sermon-browser#support
 Tags: events, calendar, list
 Requires at least: 2.5
-Tested up to: 2.7
+Tested up to: 2.7.1
 Stable tag: trunk
 
 Output a simple list of future events. Each event must have it's own post or page.
